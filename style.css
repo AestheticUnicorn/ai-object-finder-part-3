@@ -1,0 +1,31 @@
+body{
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: x-large;
+}
+
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+.object_name{
+    font-size: 20px;
+    font-weight: bold;    
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+    background-color: red;
+}
+
+
+
